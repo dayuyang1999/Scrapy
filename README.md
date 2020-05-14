@@ -1,2 +1,3 @@
 # Scrapy
-Try Web scraping 
+Try Web scraping using Scrapy Structure.
+*Tutorial*https://docs.scrapy.org/en/latest/intro/tutorial.html
